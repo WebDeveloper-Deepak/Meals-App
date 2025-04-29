@@ -3,7 +3,7 @@
 This is Meals app Where you can know about your favourites meals. You can search about any Meals see the deatils about that meal.You can also add it into favourite list
 
 # Hosted link:-
-https://deepak-75056.github.io/Meals-App/
+https://WebDeveloper-Deepak.github.io/Meals-App/
 
 # Language used :- 
 Html, CSS and JavaScript . 
